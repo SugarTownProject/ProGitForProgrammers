@@ -12,3 +12,5 @@ let add = function(num1, num2) { return num1 + num2 ; }
 let name = function() { return "Github" ; }
 
 let date = function() { return "2023/12/15" ; }
+
+let price = function() { return 100 ; }
